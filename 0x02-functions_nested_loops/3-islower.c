@@ -1,5 +1,7 @@
 #include "main.h"
 /**
+ * main = Entry point
+ *
  * islower.c - shows 1 if input is lowercase. Other case shows 0
  *
  * Return: 1 for lowercase character. 0 for the rest
