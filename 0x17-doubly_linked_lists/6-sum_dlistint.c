@@ -1,8 +1,8 @@
 #include "lists.h"
 /**
- * i_dlistint - Returns the i of all the data (n) of a dlistint_t list.
+ * sum_dlistint - Returns the sum of all of a dlistint_t list.
  * @head: Pointer to the head of the list.
- * Return: i of all the data (n), or 0 if the list is empty.
+ * Return: Sum of all the data (n), or 0 if the list is empty.
  */
 int sum_dlistint(dlistint_t *head)
 {
